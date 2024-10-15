@@ -4,7 +4,7 @@
 I hope this summary will give you some insights about machine learning. <br/>
 This is the 2nd place algorithm of the New energy vehicle power calculation competition. (Prize 50,000¥) <br/>
 You can see the "New energy vehicle big data competition.pdf" for competition description <br/>
-[Energy_Algorithm_ppt](https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/runner-up%20presentation.pdf)
+[Energy_Algorithm_ppt](https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/presentation.pdf)
 for Algorithm introduction <br/>
 Trainingset and testset data are in the dataset, energy_train1029.csv, energy_test1029.csv <br/>
 Short description of the files in folder "Models": <br/>
@@ -17,7 +17,7 @@ Outlier.py outlier detection,  <br/>
 clus.py feature classifikation,  <br/>
 tunning.py automated tuning framework <br/><br/><br/>
 
-<img src="https://github.com/XinjieInformatik/Energy-Algorithm/blob/master/pic/features.PNG" width="700" alt="features"/></br></br></br> 
-<img src="https://github.com/XinjieInformatik/Energy-Algorithm/blob/master/pic/k-fold.PNG" width="700" alt="k-fold"/> </br></br></br> 
-<img src="https://github.com/XinjieInformatik/Energy-Algorithm/blob/master/pic/process.PNG" width="700" alt="process"/></br></br></br> 
-<img src="https://github.com/XinjieInformatik/Energy-Algorithm/blob/master/pic/stack.PNG" width="700" alt="stack"/> </br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/master/pic/features.PNG" width="700" alt="features"/></br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/master/pic/k-fold.PNG" width="700" alt="k-fold"/> </br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/master/pic/process.PNG" width="700" alt="process"/></br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/master/pic/stack.PNG" width="700" alt="stack"/> </br></br></br> 
