@@ -17,7 +17,8 @@ Outlier.py outlier detection,  <br/>
 clus.py feature classifikation,  <br/>
 tunning.py automated tuning framework <br/><br/><br/>
 
-<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/master/pic/features.PNG" width="700" alt="features"/></br></br></br> 
-<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/master/pic/k-fold.PNG" width="700" alt="k-fold"/> </br></br></br> 
-<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/master/pic/process.PNG" width="700" alt="process"/></br></br></br> 
-<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/master/pic/stack.PNG" width="700" alt="stack"/> </br></br></br> 
+
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/features.PNG" width="700" alt="features"/></br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/k-fold.PNG" width="700" alt="k-fold"/> </br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/process.PNG" width="700" alt="process"/></br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/stack.PNG" width="700" alt="stack"/> </br></br></br> 
