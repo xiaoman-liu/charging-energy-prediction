@@ -18,7 +18,9 @@ clus.py feature classifikation,  <br/>
 tunning.py automated tuning framework <br/><br/><br/>
 
 
-<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/features.PNG" width="700" alt="features"/></br></br></br> 
-<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/k-fold.PNG" width="700" alt="k-fold"/> </br></br></br> 
-<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/process.PNG" width="700" alt="process"/></br></br></br> 
-<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/stack.PNG" width="700" alt="stack"/> </br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/presentation_28.png" width="700" alt="features"/></br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/presentation_11.png" width="700" alt="features"/></br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/presentation_13.png" width="700" alt="features"/></br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/presentation_19.png" width="700" alt="features"/></br></br></br>
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/presentation_32.png" width="700" alt="features"/></br></br></br> 
+<img src="https://github.com/xiaoman-liu/charging-energy-prediction/blob/main/pic/presentation_08.png" width="700" alt="features"/></br></br></br> 
